@@ -1,0 +1,14 @@
+C:\Users\ZeevB\source\repos\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\ZeevB\source\repos\Graphs\bin\Debug\Graphs.exe
+C:\Users\ZeevB\source\repos\Graphs\bin\Debug\Graphs.pdb
+C:\Users\ZeevB\source\repos\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\ZeevB\source\repos\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\ZeevB\source\repos\Graphs\obj\Debug\Graphs.exe
+C:\Users\ZeevB\source\repos\Graphs\obj\Debug\Graphs.pdb
+C:\Users\VRB\source\repos\Graphs\obj\Debug\Graphs.csprojAssemblyReference.cache
+C:\Users\VRB\source\repos\Graphs\obj\Debug\Graphs.csproj.CoreCompileInputs.cache
+C:\Users\VRB\source\repos\Graphs\obj\Debug\Graphs.exe
+C:\Users\VRB\source\repos\Graphs\obj\Debug\Graphs.pdb
+C:\Users\VRB\source\repos\Graphs\bin\Debug\Graphs.exe.config
+C:\Users\VRB\source\repos\Graphs\bin\Debug\Graphs.exe
+C:\Users\VRB\source\repos\Graphs\bin\Debug\Graphs.pdb
